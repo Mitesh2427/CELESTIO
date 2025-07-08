@@ -2,7 +2,7 @@
 
 CELESTIO is an educational and visually engaging web application built for the **NASA International Space Apps Challenge Hackathon**. It empowers users to explore and learn about celestial movements, near-Earth objects, and space science through interactive visualization and real-time data integration.
 
-![CELESTIO Screenshot](static/landing.png)
+![CELESTIO Screenshot](static/landing.png) (https://mitesh2427.github.io/CELESTIO/)
 
 ---
 
